@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ru.kapkekes.hello","c":"Greetings","l":"Greetings()","url":"%3Cinit%3E()"},{"p":"ru.kapkekes.hello","c":"Greetings","l":"sayHello()"}]
